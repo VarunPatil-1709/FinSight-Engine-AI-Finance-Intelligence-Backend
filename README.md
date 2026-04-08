@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 📊 AI-Powered Finance Tracker (Backend – Microservices)
+# 📊 FinSight-Engine-AI-Finance-Intelligence-Backend
+ (Backend – Microservices)
 
 A **microservice-based finance tracker backend** designed for **mobile applications**, focused on **automatic expense tracking** using **AI-driven SMS parsing**.
 
